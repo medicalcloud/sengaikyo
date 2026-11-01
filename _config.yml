@@ -1,0 +1,21 @@
+title: 山海経（正統道蔵本）原文・郭璞注・現代語訳
+description: 『山海経』全18巻の原文（句読点つき），郭璞注，校異，日本語訳と解説，効能の一覧，本草書との対応。医学書ではなく，本草学の背景資料として
+lang: ja
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+relative_links:
+  enabled: true
+  collections: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
+  - LICENSE
