@@ -153,7 +153,7 @@ NN_巻名/
 
 本書と本草書との関係は、[本草との対応](本草との対応.md)と各単位の解説にあります。郭璞の注は「本草に見える」「本草経に言う」と本草書に触れており（[海内経 021](18_海内経/021.ja.md)、[中山経 047](05_中山経/047.ja.md)）、郭璞の時代に本書と本草書が結びつけて読まれていたことがわかります。
 
-姉妹編：[傷寒論](https://medicalcloud.github.io/shokanron/)、[金匱要略](https://medicalcloud.github.io/kinkiyoryaku/)、[黄帝内経](https://medicalcloud.github.io/koteidaikei/)、[神農本草経](https://medicalcloud.github.io/shinnohonzokyo/)、[和剤局方](https://medicalcloud.github.io/wazaikyokuho/)、[難経](https://medicalcloud.github.io/nangyo/)、[薬徴](https://medicalcloud.github.io/yakucho/)、[脾胃論](https://medicalcloud.github.io/hiiron/)、[内外傷弁惑論](https://medicalcloud.github.io/naigaishobenwakuron/)、[二十四史の医療記事](https://medicalcloud.github.io/24shi/)
+姉妹編：[傷寒論](https://medicalcloud.github.io/shokanron/)、[金匱要略](https://medicalcloud.github.io/kinkiyoryaku/)、[黄帝内経](https://medicalcloud.github.io/koteidaikei/)、[神農本草経](https://medicalcloud.github.io/shinnohonzokyo/)、[和剤局方](https://medicalcloud.github.io/wazaikyokuho/)、[難経](https://medicalcloud.github.io/nangyo/)、[薬徴](https://medicalcloud.github.io/yakucho/)、[脾胃論](https://medicalcloud.github.io/hiiron/)、[内外傷弁惑論](https://medicalcloud.github.io/naigaishobenwakuron/)、[本草綱目](https://medicalcloud.github.io/honzokomoku/)、[二十四史の医療記事](https://medicalcloud.github.io/24shi/)
 
 ## 権利とライセンス
 

@@ -9,7 +9,7 @@ title: 目次
 - なぜ訳したのか，どう読んでほしいか：[README（GitHub）](https://github.com/medicalcloud/sengaikyo#readme)，[山海経の紹介](山海経の紹介.md)
 - [効能の一覧](効能の一覧.md)，[本草との対応](本草との対応.md)，[図讃](図讃.md)，[欠落の記録](欠落の記録.md)
 - 全データ（Markdown＋YAML）：[GitHub medicalcloud/sengaikyo](https://github.com/medicalcloud/sengaikyo)
-- 姉妹編：[傷寒論](https://medicalcloud.github.io/shokanron/)，[金匱要略](https://medicalcloud.github.io/kinkiyoryaku/)，[黄帝内経](https://medicalcloud.github.io/koteidaikei/)，[神農本草経](https://medicalcloud.github.io/shinnohonzokyo/)，[和剤局方](https://medicalcloud.github.io/wazaikyokuho/)，[難経](https://medicalcloud.github.io/nangyo/)，[薬徴](https://medicalcloud.github.io/yakucho/)，[脾胃論](https://medicalcloud.github.io/hiiron/)，[内外傷弁惑論](https://medicalcloud.github.io/naigaishobenwakuron/)，[二十四史の医療記事](https://medicalcloud.github.io/24shi/)
+- 姉妹編：[傷寒論](https://medicalcloud.github.io/shokanron/)，[金匱要略](https://medicalcloud.github.io/kinkiyoryaku/)，[黄帝内経](https://medicalcloud.github.io/koteidaikei/)，[神農本草経](https://medicalcloud.github.io/shinnohonzokyo/)，[和剤局方](https://medicalcloud.github.io/wazaikyokuho/)，[難経](https://medicalcloud.github.io/nangyo/)，[薬徴](https://medicalcloud.github.io/yakucho/)，[脾胃論](https://medicalcloud.github.io/hiiron/)，[内外傷弁惑論](https://medicalcloud.github.io/naigaishobenwakuron/)，[本草綱目](https://medicalcloud.github.io/honzokomoku/)，[二十四史の医療記事](https://medicalcloud.github.io/24shi/)
 
 ## 巻の一覧
 
